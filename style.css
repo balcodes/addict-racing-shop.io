@@ -1,0 +1,137 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Poopins;
+    background-image: url(https://img.freepik.com/free-vector/yellow-tire-tracks-imprint-background_1017-30654.jpg?size=626&ext=jpg&uid=R68094038&ga=GA1.1.1181442604.1682645504&semt=ais);
+    background-size: 100%;
+}
+
+
+nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 30px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background-color: #FFDD83;
+    z-index: 1px;
+    border-bottom: 4px solid;
+    font-size: 10px;
+
+}
+
+
+.wrapper{
+    width: 1000px;
+    margin: auto;
+    position: relative;
+}
+
+
+
+.Logo a{
+    font-family: Poopins;
+    font-size: 30px;
+    font-weight: 10px;
+    color: black;
+    float: left;
+    margin: 10px;
+    padding: 0px;
+}
+
+.Menu{
+    float: right;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+
+nav ul li{
+    float: left;
+}
+
+
+nav ul li a{
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+    color: black;
+    font-family: Poopins;
+}
+
+
+
+nav ul li a:hover{
+    text-decoration: underline;    
+}
+
+.kolom{
+    text-align: center;
+}
+
+.copyright{
+    text-align: center;
+}
+
+
+
+section{
+    text-align: center;
+}
+
+
+
+.kolom h1{
+    color: blue
+}
+
+
+
+.links a:hover{
+    color: #FFDD83;
+}
+
+.links a{
+    font-size: 30px;
+    color: blueviolet;
+    margin: 15px 10px;
+}
+
+
+.links{
+    float: right;
+    padding: 0px 20px 0px 20px;
+    margin: 20px;
+}
+
+li a:hover{
+    color: #F79327;
+}
+
+
+
+
+
+
+
+
+
+
+
+
